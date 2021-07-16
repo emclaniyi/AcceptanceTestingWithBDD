@@ -1,9 +1,8 @@
 # AcceptanceTestingWithBDD
-To run the tests
+To run the acceptance tests in python;
 
 ## installation
-use the package manager [pip] to install behave
-install any gherkin plugin
+use the package manager [pip] to install behave and any gherkin plugin
 
 
 ```bash
@@ -11,7 +10,7 @@ pip install behave
 ```
 
 ## Usage
-run behave in your terminal
+run behave in your terminal to run the acceptance tests
 
 ```bash
 behave
